@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://xingdong168.com</id>
+    <title>行动168</title>
+    <updated>2024-04-10T02:13:27.627Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://xingdong168.com"/>
+    <link rel="self" href="https://xingdong168.com/atom.xml"/>
+    <subtitle>心动不如行动</subtitle>
+    <logo>https://xingdong168.com/images/avatar.png</logo>
+    <icon>https://xingdong168.com/favicon.ico</icon>
+    <rights>All rights reserved 2024, 行动168</rights>
+    <entry>
+        <title type="html"><![CDATA[先填充内容]]></title>
+        <id>https://xingdong168.com/post/xian-tian-chong-nei-rong/</id>
+        <link href="https://xingdong168.com/post/xian-tian-chong-nei-rong/">
+        </link>
+        <updated>2024-04-10T01:49:01.000Z</updated>
+        <content type="html"><![CDATA[<p>先做出来个垃圾，然后把它变成精品。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[行动168，心动不如行动]]></title>
+        <id>https://xingdong168.com/post/hello-gridea/</id>
+        <link href="https://xingdong168.com/post/hello-gridea/">
+        </link>
+        <updated>2018-12-11T16:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>心动不如行动，行动168</p>
+]]></content>
+    </entry>
+</feed>

@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://xingdong168.com/sitemap.xml

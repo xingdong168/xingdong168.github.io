@@ -3,12 +3,33 @@
     <title>行动168</title>
     <link href="https://xingdong168.com/feed.xml" rel="self" />
     <link href="https://xingdong168.com" />
-    <updated>2024-05-08T16:04:11+08:00</updated>
+    <updated>2024-05-08T16:16:50+08:00</updated>
     <author>
         <name>行动168Note</name>
     </author>
     <id>https://xingdong168.com</id>
 
+    <entry>
+        <title>葛根汤</title>
+        <author>
+            <name>行动168Note</name>
+        </author>
+        <link href="https://xingdong168.com/ge-gen-tang.html"/>
+        <id>https://xingdong168.com/ge-gen-tang.html</id>
+
+        <updated>2024-05-08T16:16:50+08:00</updated>
+            <summary>
+                <![CDATA[
+                    葛根、麻黄、桂枝、芍药、甘草、生姜、大枣 以水一斗（2000ml），先煮麻黄、葛根减二升（400ml），去白沫，纳诸药，煮取三升（600ml），去滓，温服一升（200ml）。覆衣被，取微似汗，余如桂枝法将息。
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>葛根、麻黄、桂枝、芍药、甘草、生姜、大枣</p>
+<p>以水一斗（2000ml），先煮麻黄、葛根减二升（400ml），去白沫，纳诸药，煮取三升（600ml），去滓，温服一升（200ml）。覆衣被，取微似汗，余如桂枝法将息。</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>麻黄汤</title>
         <author>
